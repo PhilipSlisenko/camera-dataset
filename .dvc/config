@@ -1,0 +1,4 @@
+[core]
+    remote = s3-cache
+['remote "s3-cache"']
+    url = s3://camera-s3-cache

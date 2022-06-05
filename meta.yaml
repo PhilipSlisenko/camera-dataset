@@ -1,0 +1,6 @@
+path: /opt/ml/input/dataset-repo/dataset
+train: images/train
+val: images/val
+
+nc: 2  # number of classes
+names: ['blue_tit', 'raven']  # class names
